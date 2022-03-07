@@ -1,0 +1,15 @@
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+#button{
+    height: 35px;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #c8c8c8;
+}
+
+#button:hover {
+    background-color: pink;
+}
